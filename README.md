@@ -220,6 +220,7 @@
 *   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 *   [calebdoxsey/kubernetes-cloudflare-sync](https://github.com/calebdoxsey/kubernetes-cloudflare-sync) -
 *   [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
+*   [xetys/hetzner-kube](https://github.com/xetys/hetzner-kube) - A CLI tool for provisioning kubernetes clusters on Hetzner Cloud
 
 ## HTML
 
@@ -409,7 +410,6 @@
 *   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
 *   [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 *   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 
 ## Shell
 
