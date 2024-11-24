@@ -339,7 +339,7 @@
 *   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 *   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 *   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
-*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
+*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 *   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 *   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 *   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
