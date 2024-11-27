@@ -282,7 +282,7 @@
 
 ## Kotlin
 
-*   [EssentialGG/Essential](https://github.com/EssentialGG/Essential) - Essential is a quality of life mod that boosts Minecraft Java Edition to the next level!
+*   [EssentialGG/Essential-Mod](https://github.com/EssentialGG/Essential-Mod) - Essential is a quality of life mod that boosts Minecraft Java Edition to the next level!
 *   [emortalmc/Immortal](https://github.com/emortalmc/Immortal) - \[legacy] Game manager for EmortalMC
 *   [emortalmc/MarathonOld](https://github.com/emortalmc/MarathonOld) - An endless parkour gamemode
 *   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
