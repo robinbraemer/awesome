@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -12,7 +13,6 @@
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -30,7 +30,23 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 *   [Makefile](#makefile)
-*   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+*   [macmv/bamboo](https://github.com/macmv/bamboo) - A safe, fast, and secure Minecraft server optimized for minigames. This is a mirror of the Gitlab repo: https://gitlab.com/macmv/bamboo
+*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
+*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+*   [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
+*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 
 ## Go
 
@@ -383,22 +399,6 @@
 *   [openstack/openstack-ansible](https://github.com/openstack/openstack-ansible) - Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.
 *   [maximilian-janisch/2018-UZH-Great-Santa-Hunt](https://github.com/maximilian-janisch/2018-UZH-Great-Santa-Hunt) - The repository for a small game in which deers search for and distribute presents.
 
-## Rust
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-*   [macmv/bamboo](https://github.com/macmv/bamboo) - A safe, fast, and secure Minecraft server optimized for minigames. This is a mirror of the Gitlab repo: https://gitlab.com/macmv/bamboo
-*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-*   [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
-*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-*   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-
 ## Svelte
 
 *   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
@@ -508,7 +508,3 @@
 
 *   [gogo/googleapis](https://github.com/gogo/googleapis) - googleapis generated with gogoprotobuf
 *   [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
-
-## Dockerfile
-
-*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
