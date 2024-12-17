@@ -13,10 +13,10 @@
 *   [Java](#java)
 *   [C++](#c)
 *   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
 *   [Batchfile](#batchfile)
 *   [C](#c-1)
 *   [Swift](#swift)
@@ -370,9 +370,23 @@
 *   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
 *   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 
-## Python
+## miscellaneous
 
 *   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
+*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
+*   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+*   [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
+*   [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
+*   [danharper/hmac-examples](https://github.com/danharper/hmac-examples) - SHA256 HMAC in different languages (both hex & base64 encoding)
+*   [cncf/memorials](https://github.com/cncf/memorials) - 🕯️💐CNCF Community Memorials
+
+## Python
+
 *   [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 *   [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q\&A experiences.
@@ -425,20 +439,6 @@
 *   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
 *   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
 *   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
-
-## miscellaneous
-
-*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
-*   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-*   [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
-*   [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
-*   [danharper/hmac-examples](https://github.com/danharper/hmac-examples) - SHA256 HMAC in different languages (both hex & base64 encoding)
-*   [cncf/memorials](https://github.com/cncf/memorials) - 🕯️💐CNCF Community Memorials
 
 ## Batchfile
 
