@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [Rust](#rust)
 *   [Ruby](#ruby)
@@ -32,25 +32,9 @@
 *   [CoffeeScript](#coffeescript)
 *   [Makefile](#makefile)
 
-## JavaScript
-
-*   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
-*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-*   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
-*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
-*   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
-*   [temporalio/snipsync](https://github.com/temporalio/snipsync) -
-*   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
-*   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
-
 ## TypeScript
 
+*   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 *   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
@@ -103,6 +87,23 @@
 *   [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
+## JavaScript
+
+*   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
+*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+*   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
+*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
+*   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
+*   [temporalio/snipsync](https://github.com/temporalio/snipsync) -
+*   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
+*   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
+
 ## Svelte
 
 *   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
@@ -120,7 +121,7 @@
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 *   [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 *   [macmv/bamboo](https://github.com/macmv/bamboo) - A safe, fast, and secure Minecraft server optimized for minigames. This is a mirror of the Gitlab repo: https://gitlab.com/macmv/bamboo
 *   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 *   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -321,7 +322,6 @@
 *   [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 *   [mitchellh/hashstructure](https://github.com/mitchellh/hashstructure) - Get hash values for arbitrary values in Go (golang).
 *   [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
-*   [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 
 ## HTML
 
