@@ -121,7 +121,7 @@
 *   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 *   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
 *   [temporalio/snipsync](https://github.com/temporalio/snipsync) -
-*   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
+*   [hypermodeinc/ratel](https://github.com/hypermodeinc/ratel) - Dgraph Data Visualizer and Cluster Manager
 *   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 
 ## Svelte
