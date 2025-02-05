@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
+*   [TypeScript](#typescript)
 *   [Zig](#zig)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Svelte](#svelte)
 *   [Rust](#rust)
 *   [Ruby](#ruby)
 *   [Go](#go)
@@ -32,29 +32,22 @@
 *   [CoffeeScript](#coffeescript)
 *   [Makefile](#makefile)
 
-## Zig
+## Svelte
 
-*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## miscellaneous
-
-*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-*   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
-*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
-*   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-*   [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
-*   [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
-*   [danharper/hmac-examples](https://github.com/danharper/hmac-examples) - SHA256 HMAC in different languages (both hex & base64 encoding)
-*   [cncf/memorials](https://github.com/cncf/memorials) - 🕯️💐CNCF Community Memorials
+*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
+*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
+*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
+*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
+*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
+*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - cmdk, but for Svelte ✨
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
+*   [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
+*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## TypeScript
 
+*   [needle-di/core](https://github.com/needle-di/core) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects
 *   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 *   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -108,6 +101,27 @@
 *   [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
+## Zig
+
+*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## miscellaneous
+
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+*   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
+*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
+*   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+*   [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
+*   [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
+*   [danharper/hmac-examples](https://github.com/danharper/hmac-examples) - SHA256 HMAC in different languages (both hex & base64 encoding)
+*   [cncf/memorials](https://github.com/cncf/memorials) - 🕯️💐CNCF Community Memorials
+
 ## JavaScript
 
 *   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
@@ -124,18 +138,6 @@
 *   [temporalio/snipsync](https://github.com/temporalio/snipsync) -
 *   [hypermodeinc/ratel](https://github.com/hypermodeinc/ratel) - Dgraph Data Visualizer and Cluster Manager
 *   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
-
-## Svelte
-
-*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
-*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
-*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
-*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
-*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - cmdk, but for Svelte ✨
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
-*   [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
-*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## Rust
 
@@ -341,7 +343,6 @@
 *   [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 *   [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 *   [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-*   [mitchellh/hashstructure](https://github.com/mitchellh/hashstructure) - Get hash values for arbitrary values in Go (golang).
 
 ## HTML
 
@@ -386,7 +387,6 @@
 *   [google/guava](https://github.com/google/guava) - Google core libraries for Java
 *   [halirutan/IntelliJ-Key-Promoter-X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) - Modern IntelliJ plugin to learn shortcuts for buttons
 *   [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
-*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
 ## C++
 
