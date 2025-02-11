@@ -34,6 +34,8 @@
 
 ## TypeScript
 
+*   [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 *   [needle-di/core](https://github.com/needle-di/core) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects
 *   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
@@ -342,8 +344,6 @@
 *   [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 *   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 *   [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
-*   [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-*   [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
 ## HTML
 
