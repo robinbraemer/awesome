@@ -169,7 +169,7 @@
 *   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 *   [minekube/votifier](https://github.com/minekube/votifier) - Zero dependency Go implementation of Votifier v1 and v2 (used in production at Minekube)
 *   [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
-*   [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+*   [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 *   [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 *   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
