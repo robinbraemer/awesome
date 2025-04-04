@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Makefile](#makefile)
 *   [Go](#go)
 *   [Svelte](#svelte)
 *   [Rust](#rust)
@@ -30,7 +31,12 @@
 *   [Starlark](#starlark)
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
-*   [Makefile](#makefile)
+
+## Makefile
+
+*   [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.
+*   [gogo/googleapis](https://github.com/gogo/googleapis) - googleapis generated with gogoprotobuf
+*   [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 
 ## Go
 
@@ -210,7 +216,6 @@
 *   [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 *   [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 *   [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-*   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 
 ## Svelte
 
@@ -507,8 +512,3 @@
 ## CoffeeScript
 
 *   [Electroid/mojang-api](https://github.com/Electroid/mojang-api) - Bundle multiple Minecraft APIs into a single GET request.
-
-## Makefile
-
-*   [gogo/googleapis](https://github.com/gogo/googleapis) - googleapis generated with gogoprotobuf
-*   [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
