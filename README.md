@@ -34,6 +34,7 @@
 
 ## Go
 
+*   [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 *   [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 *   [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 *   [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -205,7 +206,6 @@
 *   [gogo/protobuf](https://github.com/gogo/protobuf) - \[Deprecated] Protocol Buffers for Go with Gadgets
 *   [SpencerSharkey/gomc](https://github.com/SpencerSharkey/gomc) - ⛏️minecraft golang library
 *   [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
-*   [campoy/justforfunc](https://github.com/campoy/justforfunc) - The repository for the YouTube series JustForFunc
 
 ## Svelte
 
