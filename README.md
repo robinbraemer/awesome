@@ -67,7 +67,7 @@
 *   [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 *   [minekube/gate-plugin-template](https://github.com/minekube/gate-plugin-template) - A Golang starter template for creating your awesome Minecraft proxy and extensions powered by Minekube Gate 🚀 Fork it!
 *   [redis-go/redis](https://github.com/redis-go/redis) - Redis server written in Go / Golang (prototype)
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+*   [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 *   [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 *   [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 *   [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
