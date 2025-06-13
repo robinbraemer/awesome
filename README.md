@@ -376,7 +376,7 @@
 *   [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
 *   [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 *   [hollow-cube/minestom-ce](https://github.com/hollow-cube/minestom-ce) - 1.20.4 Lightweight Minecraft server
-*   [GoldenStack/window](https://github.com/GoldenStack/window) - Useful API for Minestom inventories
+*   [GoldenStack/window](https://github.com/GoldenStack/window) - Barebones inventory wrapper API for Minestom inventories
 *   [cerus/maps](https://github.com/cerus/maps) - maps is a simple Spigot plugin and api for creating clientside maps and map screens.
 *   [Incendo/cloud](https://github.com/Incendo/cloud) - Command framework & dispatcher for the JVM
 *   [boy0001/FastAsyncWorldedit](https://github.com/boy0001/FastAsyncWorldedit) - Blazingly fast world manipulation for artists, large networks and developers: https://www.spigotmc.org/resources/13932/
