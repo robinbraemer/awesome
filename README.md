@@ -34,6 +34,7 @@
 
 ## TypeScript
 
+*   [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
 *   [rharkor/caching-for-turbo](https://github.com/rharkor/caching-for-turbo) - A Github action to set up Turborepo Remote Caching to work with GitHub Actions' built-in cache instead of Vercel one
 *   [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 *   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -447,7 +448,6 @@
 *   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 *   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
 *   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
-*   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 
 ## Batchfile
 
