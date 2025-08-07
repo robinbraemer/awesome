@@ -34,6 +34,7 @@
 
 ## TypeScript
 
+*   [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
 *   [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) - An SMTP library that helps you send email in Cloudflare Workers.
 *   [cloudflare/actors](https://github.com/cloudflare/actors) - An easier way to build with Cloudflare Durable Objects
 *   [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
@@ -493,7 +494,6 @@
 
 *   [thecoder-001/MineColab](https://github.com/thecoder-001/MineColab) - Run Minecraft Server on Google Colab.
 *   [letianzj/QuantResearch](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests
-*   [maximilian-janisch/2020-UZH-Random-Forests](https://github.com/maximilian-janisch/2020-UZH-Random-Forests) - Repository for the final project of the course An Introduction to Machine Learning by Marco and Maximilian
 
 ## Vala
 
