@@ -376,7 +376,7 @@
 ## miscellaneous
 
 *   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-*   [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
+*   [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
 *   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 *   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
 *   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
