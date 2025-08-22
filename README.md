@@ -341,7 +341,7 @@
 *   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 *   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 *   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
-*   [temporalio/snipsync](https://github.com/temporalio/snipsync) -
+*   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
 *   [hypermodeinc/ratel](https://github.com/hypermodeinc/ratel) - Dgraph Data Visualizer and Cluster Manager
 
 ## Rust
