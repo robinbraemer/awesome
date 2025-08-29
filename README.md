@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [PLpgSQL](#plpgsql)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
@@ -32,9 +33,12 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 
-## TypeScript
+## PLpgSQL
 
 *   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+## TypeScript
+
 *   [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
 *   [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) - An SMTP library that helps you send email in Cloudflare Workers.
 *   [cloudflare/actors](https://github.com/cloudflare/actors) - An easier way to build with Cloudflare Durable Objects
