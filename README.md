@@ -206,7 +206,6 @@
 *   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 *   [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 *   [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
-*   [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 *   [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 *   [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 *   [gorgonia/agogo](https://github.com/gorgonia/agogo) - A reimplementation of AlphaGo in Go (specifically AlphaZero)
@@ -279,6 +278,7 @@
 *   [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 *   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 *   [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
+*   [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 
 ## PLpgSQL
 
