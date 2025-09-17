@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [TypeScript](#typescript)
@@ -18,10 +19,9 @@
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Shell](#shell)
 *   [Batchfile](#batchfile)
-*   [C](#c-1)
 *   [Swift](#swift)
 *   [Roff](#roff)
 *   [PHP](#php)
@@ -32,6 +32,18 @@
 *   [Starlark](#starlark)
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
+
+## C
+
+*   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+*   [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
+*   [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
+*   [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
+*   [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
+*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+*   [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+*   [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network
 
 ## JavaScript
 
@@ -432,7 +444,6 @@
 *   [TheLimeGlass/Skellett](https://github.com/TheLimeGlass/Skellett) - The most popular Skript addon
 *   [DragonetMC/DragonProxy](https://github.com/DragonetMC/DragonProxy) - 🐲 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
 *   [KyoriPowered/adventure-platform](https://github.com/KyoriPowered/adventure-platform) - Adventure platform implementations
-*   [esoco/coroutines](https://github.com/esoco/coroutines) - A pure Java implementation of cooperative concurrency, aka coroutines
 
 ## C++
 
@@ -457,17 +468,6 @@
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-## C
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-*   [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
-*   [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
-*   [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
-*   [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-*   [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-*   [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network
 
 ## Swift
 
