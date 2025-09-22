@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [C](#c)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
-*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [PLpgSQL](#plpgsql)
 *   [Python](#python)
@@ -33,74 +33,9 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 
-## Rust
-
-*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
-*   [scrayosnet/dcexport](https://github.com/scrayosnet/dcexport) - Discord Server Prometheus Exporter
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-*   [macmv/bamboo](https://github.com/macmv/bamboo) - A safe, fast, and secure Minecraft server optimized for minigames. This is a mirror of the Gitlab repo: https://gitlab.com/macmv/bamboo
-*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-*   [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
-*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-*   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-
-## C
-
-*   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-*   [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
-*   [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
-*   [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
-*   [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-*   [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-*   [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network
-
-## JavaScript
-
-*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
-*   [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents
-*   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
-*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-*   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
-*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
-*   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
-*   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
-*   [hypermodeinc/ratel](https://github.com/hypermodeinc/ratel) - Dgraph Data Visualizer and Cluster Manager
-
-## Svelte
-
-*   [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
-*   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
-*   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
-*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
-*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
-*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
-*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
-*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
-*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - Deprecated by the Command component in Bits UI (https://bits-ui.com/docs/components/command)
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
-*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-
 ## TypeScript
 
+*   [beynar/svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Svelte port of Streamdown
 *   [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 *   [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
 *   [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) - An SMTP library that helps you send email in Cloudflare Workers.
@@ -172,6 +107,72 @@
 *   [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 *   [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+## Rust
+
+*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
+*   [scrayosnet/dcexport](https://github.com/scrayosnet/dcexport) - Discord Server Prometheus Exporter
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+*   [macmv/bamboo](https://github.com/macmv/bamboo) - A safe, fast, and secure Minecraft server optimized for minigames. This is a mirror of the Gitlab repo: https://gitlab.com/macmv/bamboo
+*   [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
+*   [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+*   [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
+*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+
+## C
+
+*   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+*   [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
+*   [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
+*   [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
+*   [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
+*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+*   [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+*   [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network
+
+## JavaScript
+
+*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
+*   [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents
+*   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
+*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+*   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
+*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
+*   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
+*   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
+*   [hypermodeinc/ratel](https://github.com/hypermodeinc/ratel) - Dgraph Data Visualizer and Cluster Manager
+
+## Svelte
+
+*   [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
+*   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
+*   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
+*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
+*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
+*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
+*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
+*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
+*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - Deprecated by the Command component in Bits UI (https://bits-ui.com/docs/components/command)
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
+*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## Go
 
@@ -343,7 +344,6 @@
 *   [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 *   [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 *   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-*   [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 
 ## PLpgSQL
 
