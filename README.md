@@ -193,7 +193,7 @@
 *   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 *   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
 *   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
-*   [hypermodeinc/ratel](https://github.com/hypermodeinc/ratel) - Dgraph Data Visualizer and Cluster Manager
+*   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
 
 ## Svelte
 
@@ -248,7 +248,7 @@
 *   [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 *   [minekube/gate-plugin-template](https://github.com/minekube/gate-plugin-template) - A Golang starter template for creating your awesome Minecraft proxy and extensions powered by Minekube Gate 🚀 Fork it!
 *   [redis-go/redis](https://github.com/redis-go/redis) - Redis server written in Go / Golang (prototype)
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 *   [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 *   [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 *   [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
@@ -304,7 +304,7 @@
 *   [robinbraemer/parallel](https://github.com/robinbraemer/parallel) - Tiny utility for gracefully running functions in parallel with multi-error returning.
 *   [minekube/common](https://github.com/minekube/common) - Minecraft text component library & more!
 *   [minekube/brigodier](https://github.com/minekube/brigodier) - Brigodier is a command parser & dispatcher, designed and developed for command lines in Minecraft chat commands. It is a complete port from Mojang's "brigadier" into Go. Used by our Gate proxy.
-*   [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
+*   [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 *   [mishudark/zanzibar](https://github.com/mishudark/zanzibar) - Authorization System based on Google zanzibar paper
 *   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 *   [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
@@ -336,7 +336,7 @@
 *   [logur/logur](https://github.com/logur/logur) - Logur is an opinionated collection of logging best practices
 *   [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt
 *   [k8snetworkplumbingwg/ovs-cni](https://github.com/k8snetworkplumbingwg/ovs-cni) - Open vSwitch CNI plugin
-*   [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+*   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 *   [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 *   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 *   [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
