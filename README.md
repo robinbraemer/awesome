@@ -35,6 +35,7 @@
 
 ## TypeScript
 
+*   [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 *   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 *   [rtrampox/nuqs-svelte](https://github.com/rtrampox/nuqs-svelte) - nuqs port for Svelte ✨
 *   [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
@@ -292,7 +293,6 @@
 *   [kubernetes-retired/kubefed](https://github.com/kubernetes-retired/kubefed) - Kubernetes Cluster Federation
 *   [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 *   [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
-*   [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 
 ## Python
 
