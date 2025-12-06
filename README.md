@@ -34,6 +34,7 @@
 
 ## Go
 
+*   [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 *   [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 *   [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 *   [alexsobiek/gate-geyser](https://github.com/alexsobiek/gate-geyser) - Use Geyser Standalone with Gate proxies!
@@ -201,7 +202,7 @@
 
 ## TypeScript
 
-*   [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+*   [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 *   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 *   [rtrampox/nuqs-svelte](https://github.com/rtrampox/nuqs-svelte) - nuqs port for Svelte ✨
 *   [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
@@ -440,7 +441,6 @@
 *   [oldstuffs/SmartInventory](https://github.com/oldstuffs/SmartInventory) - Moved to https://github.com/Infumia/InfumiaLib
 *   [robinbraemer/CloudflareAPI](https://github.com/robinbraemer/CloudflareAPI) - The most complete and extensible Cloudflare API v4 client library for Java.
 *   [ProtocolSupport/ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support 1.18, 1.17, 1.16, 1.15, 1.14, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4.7 clients on Spigot/Paper 1.18.1
-*   [TheLimeGlass/Skellett](https://github.com/TheLimeGlass/Skellett) - The most popular Skript addon
 
 ## C++
 
