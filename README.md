@@ -34,6 +34,7 @@
 
 ## Go
 
+*   [uberswe/createmod.com](https://github.com/uberswe/createmod.com) - CreateMod.com website - Unofficial Create Mod schematic repository
 *   [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 *   [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 *   [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
@@ -198,10 +199,10 @@
 *   [lucasb-eyer/go-colorful](https://github.com/lucasb-eyer/go-colorful) - A library for playing with colors in go (golang).
 *   [justblender/gominet](https://github.com/justblender/gominet) - Minecraft protocol and server library
 *   [kubernetes-retired/kubefed](https://github.com/kubernetes-retired/kubefed) - Kubernetes Cluster Federation
-*   [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 
 ## TypeScript
 
+*   [woodendoors7/MinecraftStatusPinger](https://github.com/woodendoors7/MinecraftStatusPinger) - 🟩 A Minecraft Status Pinger
 *   [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 *   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 *   [rtrampox/nuqs-svelte](https://github.com/rtrampox/nuqs-svelte) - nuqs port for Svelte ✨
@@ -440,7 +441,6 @@
 *   [oldstuffs/scoreboard](https://github.com/oldstuffs/scoreboard) - Moved to https://github.com/Infumia/InfumiaLib
 *   [oldstuffs/SmartInventory](https://github.com/oldstuffs/SmartInventory) - Moved to https://github.com/Infumia/InfumiaLib
 *   [robinbraemer/CloudflareAPI](https://github.com/robinbraemer/CloudflareAPI) - The most complete and extensible Cloudflare API v4 client library for Java.
-*   [ProtocolSupport/ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support 1.18, 1.17, 1.16, 1.15, 1.14, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4.7 clients on Spigot/Paper 1.18.1
 
 ## C++
 
