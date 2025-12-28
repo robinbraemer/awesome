@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Svelte](#svelte)
 *   [Go](#go)
@@ -19,7 +20,6 @@
 *   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [C++](#c-1)
-*   [Shell](#shell)
 *   [Batchfile](#batchfile)
 *   [Swift](#swift)
 *   [Roff](#roff)
@@ -32,8 +32,18 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 
+## Shell
+
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+*   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+*   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
+*   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
+
 ## TypeScript
 
+*   [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 *   [x0k/svelte-jsonschema-form](https://github.com/x0k/svelte-jsonschema-form) - Svelte 5 library for creating forms based on JSON schema.
 *   [woodendoors7/MinecraftStatusPinger](https://github.com/woodendoors7/MinecraftStatusPinger) - 🟩 A Minecraft Status Pinger
 *   [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
@@ -295,7 +305,6 @@
 *   [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 *   [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 *   [Craftserve/potoq](https://github.com/Craftserve/potoq) - Minecraft (java edition) proxy framework written in Go
-*   [lucasb-eyer/go-colorful](https://github.com/lucasb-eyer/go-colorful) - A library for playing with colors in go (golang).
 
 ## Python
 
@@ -416,7 +425,6 @@
 *   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 *   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
 *   [scrapy/scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library
-*   [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 
 ## Kotlin
 
@@ -452,14 +460,6 @@
 *   [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 *   [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 *   [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
-
-## Shell
-
-*   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-*   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
-*   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
 
 ## Batchfile
 
