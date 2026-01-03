@@ -64,7 +64,7 @@
 *   [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 *   [x0k/svelte-jsonschema-form](https://github.com/x0k/svelte-jsonschema-form) - Svelte 5 library for creating forms based on JSON schema.
 *   [woodendoors7/MinecraftStatusPinger](https://github.com/woodendoors7/MinecraftStatusPinger) - 🟩 A Minecraft Status Pinger
-*   [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 *   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 *   [rtrampox/nuqs-svelte](https://github.com/rtrampox/nuqs-svelte) - nuqs port for Svelte ✨
 *   [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
@@ -75,7 +75,7 @@
 *   [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) - An SMTP library that helps you send email in Cloudflare Workers.
 *   [cloudflare/actors](https://github.com/cloudflare/actors) - An easier way to build with Cloudflare Durable Objects
 *   [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
-*   [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
+*   [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 *   [rharkor/caching-for-turbo](https://github.com/rharkor/caching-for-turbo) - A Github action to set up Turborepo Remote Caching to work with GitHub Actions' built-in cache instead of Vercel one
 *   [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 *   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
