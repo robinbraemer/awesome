@@ -226,7 +226,7 @@
 *   [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 *   [wlwanpan/minecraft-wrapper](https://github.com/wlwanpan/minecraft-wrapper) - A Go package for your Minecraft Server
 *   [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-*   [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+*   [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 *   [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 *   [emortalmc/GateProxy](https://github.com/emortalmc/GateProxy) -
 *   [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
