@@ -209,7 +209,7 @@
 *   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 *   [minekube/votifier](https://github.com/minekube/votifier) - Zero dependency Go implementation of Votifier v1 and v2 (used in production at Minekube)
 *   [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
-*   [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+*   [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 *   [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 *   [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -275,7 +275,7 @@
 *   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 *   [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 *   [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
-*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
+*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
 *   [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 *   [upper/db](https://github.com/upper/db) - Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 *   [dpb587/go-importshttp](https://github.com/dpb587/go-importshttp) - Utilities for hosting Go packages on custom/vanity domains.
