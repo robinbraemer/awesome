@@ -22,7 +22,6 @@
 *   [C++](#c-1)
 *   [Batchfile](#batchfile)
 *   [Swift](#swift)
-*   [Roff](#roff)
 *   [PHP](#php)
 *   [V](#v)
 *   [Vue](#vue)
@@ -99,6 +98,7 @@
 *   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 *   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
 *   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 *   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 *   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 *   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
@@ -569,10 +569,6 @@
 *   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 *   [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 *   [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-
-## Roff
-
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## PHP
 
