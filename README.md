@@ -34,6 +34,7 @@
 
 ## TypeScript
 
+*   [maxim-lobanov/setup-xcode](https://github.com/maxim-lobanov/setup-xcode) -  Set up your GitHub Actions workflow with a specific version of Xcode
 *   [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n. Zero code changes. Smallest bundles.
 *   [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 *   [x0k/svelte-jsonschema-form](https://github.com/x0k/svelte-jsonschema-form) - Svelte 5 library for creating forms based on JSON schema.
@@ -544,7 +545,6 @@
 *   [MinelinkNetwork/BungeeProxy](https://github.com/MinelinkNetwork/BungeeProxy) - Enables compatibility between BungeeCord and HAProxy's PROXY v1 and v2 protocols
 *   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 *   [AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus) - Event Bus By RxJava.
-*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
 
 ## C++
 
