@@ -4,11 +4,12 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
 *   [Go](#go)
 *   [Python](#python)
 *   [C](#c)
@@ -31,6 +32,23 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 *   [Dockerfile](#dockerfile)
+
+## MDX
+
+*   [HytaleModding/site](https://github.com/HytaleModding/site) - Hytale Modding Website - your one stop shop for all guides & docs related to Hytale.
+
+## Shell
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+*   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+*   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
+*   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
+*   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
+*   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 
 ## TypeScript
 
@@ -177,18 +195,6 @@
 *   [dewil-official/ppap](https://github.com/dewil-official/ppap) - 🐦 Pokemon Pen And Paper - App
 *   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 
-## Shell
-
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-*   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-*   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
-*   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
-*   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
-*   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
-
 ## Go
 
 *   [uberswe/createmod.com](https://github.com/uberswe/createmod.com) - CreateMod.com website - Unofficial Create Mod schematic repository
@@ -277,7 +283,7 @@
 *   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 *   [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 *   [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
-*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
+*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 *   [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 *   [upper/db](https://github.com/upper/db) - Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 *   [dpb587/go-importshttp](https://github.com/dpb587/go-importshttp) - Utilities for hosting Go packages on custom/vanity domains.
@@ -543,8 +549,6 @@
 *   [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
 *   [SpigotMC/BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
 *   [MinelinkNetwork/BungeeProxy](https://github.com/MinelinkNetwork/BungeeProxy) - Enables compatibility between BungeeCord and HAProxy's PROXY v1 and v2 protocols
-*   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-*   [AndroidKnife/RxBus](https://github.com/AndroidKnife/RxBus) - Event Bus By RxJava.
 
 ## C++
 
