@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [MDX](#mdx)
 *   [Shell](#shell)
 *   [Rust](#rust)
-*   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Python](#python)
@@ -32,6 +32,26 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 *   [Dockerfile](#dockerfile)
+
+## Svelte
+
+*   [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
+*   [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
+*   [YusufCeng1z/svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
+*   [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
+*   [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
+*   [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
+*   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
+*   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
+*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
+*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
+*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
+*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
+*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
+*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - Deprecated by the Command component in Bits UI (https://bits-ui.com/docs/components/command)
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
+*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## Swift
 
@@ -184,24 +204,6 @@
 *   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 *   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 *   [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-
-## Svelte
-
-*   [YusufCeng1z/svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
-*   [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
-*   [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
-*   [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
-*   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
-*   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
-*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
-*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
-*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
-*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
-*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
-*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - Deprecated by the Command component in Bits UI (https://bits-ui.com/docs/components/command)
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
-*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## JavaScript
 
@@ -439,8 +441,6 @@
 *   [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 *   [Irmine/GoMine](https://github.com/Irmine/GoMine) - A not so active Minecraft (Bedrock Edition) server software written in Go
-*   [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
-*   [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 
 ## Python
 
