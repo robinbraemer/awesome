@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [C++](#c)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [Svelte](#svelte)
 *   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -32,6 +32,29 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 *   [Dockerfile](#dockerfile)
+
+## Svelte
+
+*   [SikandarJODD/form-builder](https://github.com/SikandarJODD/form-builder) - Svelte Form Builder include various Input fields validated using ZOD + Superforms
+*   [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a custom registry built on top of shadcn-svelte to help you build AI-native applications faster.
+*   [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
+*   [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
+*   [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
+*   [YusufCeng1z/svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
+*   [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
+*   [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
+*   [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
+*   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
+*   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
+*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
+*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
+*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
+*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
+*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
+*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - Deprecated by the Command component in Bits UI (https://bits-ui.com/docs/components/command)
+*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
+*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
+*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## C++
 
@@ -284,28 +307,6 @@
 *   [kubernetes/code-generator](https://github.com/kubernetes/code-generator) - Generators for kube-like API types
 *   [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-*   [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
-*   [golang/go](https://github.com/golang/go) - The Go programming language
-
-## Svelte
-
-*   [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
-*   [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
-*   [YusufCeng1z/svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
-*   [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
-*   [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
-*   [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
-*   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
-*   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
-*   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
-*   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
-*   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
-*   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
-*   [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
-*   [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv) - Deprecated by the Command component in Bits UI (https://bits-ui.com/docs/components/command)
-*   [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-*   [SveltePress/sveltepress](https://github.com/SveltePress/sveltepress) - A content centered site build tool, build on top of Sveltekit.
-*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## Swift
 
@@ -534,7 +535,6 @@
 *   [emortalmc/Immortal](https://github.com/emortalmc/Immortal) - \[legacy] Game manager for EmortalMC
 *   [emortalmc/MarathonOld](https://github.com/emortalmc/MarathonOld) - An endless parkour gamemode
 *   [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-*   [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## Java
 
