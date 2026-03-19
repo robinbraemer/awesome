@@ -171,6 +171,7 @@
 *   [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
 *   [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
 *   [Rykuno/TofuStack](https://github.com/Rykuno/TofuStack) -
+*   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
 *   [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
 *   [webgme/svelte-jsonschema-form](https://github.com/webgme/svelte-jsonschema-form) - A Svelte component for generating forms from JSON Schema.
 *   [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
@@ -479,7 +480,6 @@
 *   [michaelneale/lapstone-tunnel](https://github.com/michaelneale/lapstone-tunnel) - Using cloudflare workers and DOs to make a https tunnel that scales
 *   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
 *   [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents
-*   [svar-widgets/filemanager](https://github.com/svar-widgets/filemanager) - Easy-to-use Svelte file manager (file explorer) component
 *   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 *   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 *   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
