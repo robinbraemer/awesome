@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Svelte](#svelte)
@@ -11,10 +13,8 @@
 *   [Rust](#rust)
 *   [Go](#go)
 *   [Swift](#swift)
-*   [miscellaneous](#miscellaneous)
 *   [MDX](#mdx)
 *   [Shell](#shell)
-*   [JavaScript](#javascript)
 *   [C](#c-1)
 *   [Makefile](#makefile)
 *   [Zig](#zig)
@@ -32,6 +32,45 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 *   [Dockerfile](#dockerfile)
+
+## JavaScript
+
+*   [thedead2/thieme\_eref\_downloader](https://github.com/thedead2/thieme_eref_downloader) - Download all pdfs of an e-book from Thieme eRef and merge them into a single file.
+*   [hamzafarooq/word-humanizer](https://github.com/hamzafarooq/word-humanizer) -
+*   [michaelneale/lapstone-tunnel](https://github.com/michaelneale/lapstone-tunnel) - Using cloudflare workers and DOs to make a https tunnel that scales
+*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
+*   [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents
+*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
+*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
+*   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
+*   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
+*   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
+*   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
+
+## miscellaneous
+
+*   [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
+*   [qvisten12/jetbrains-new-ui-dark-theme](https://github.com/qvisten12/jetbrains-new-ui-dark-theme) -
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+*   [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
+*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
+*   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+*   [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
+*   [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
+*   [danharper/hmac-examples](https://github.com/danharper/hmac-examples) - SHA256 HMAC in different languages (both hex & base64 encoding)
+*   [cncf/memorials](https://github.com/cncf/memorials) - 🕯️💐CNCF Community Memorials
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## TypeScript
 
@@ -132,7 +171,7 @@
 *   [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 *   [daveshap/ACE\_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-*   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+*   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 *   [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 *   [jquesnelle/yarn](https://github.com/jquesnelle/yarn) - YaRN: Efficient Context Window Extension of Large Language Models
 *   [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
@@ -430,7 +469,6 @@
 *   [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
 *   [xetys/hetzner-kube](https://github.com/xetys/hetzner-kube) - A CLI tool for provisioning kubernetes clusters on Hetzner Cloud
 *   [kubernetes/code-generator](https://github.com/kubernetes/code-generator) - Generators for kube-like API types
-*   [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 
 ## Swift
 
@@ -438,25 +476,6 @@
 *   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 *   [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 *   [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-
-## miscellaneous
-
-*   [qvisten12/jetbrains-new-ui-dark-theme](https://github.com/qvisten12/jetbrains-new-ui-dark-theme) -
-*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-*   [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
-*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
-*   [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-*   [InventivetalentDev/minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets) - Extracted Minecraft Assets
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-*   [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
-*   [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
-*   [danharper/hmac-examples](https://github.com/danharper/hmac-examples) - SHA256 HMAC in different languages (both hex & base64 encoding)
-*   [cncf/memorials](https://github.com/cncf/memorials) - 🕯️💐CNCF Community Memorials
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [dewil-official/it-long-time-test](https://github.com/dewil-official/it-long-time-test) - German Abitur Test Preparation!
 
 ## MDX
 
@@ -474,25 +493,6 @@
 *   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
 *   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
 *   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
-
-## JavaScript
-
-*   [michaelneale/lapstone-tunnel](https://github.com/michaelneale/lapstone-tunnel) - Using cloudflare workers and DOs to make a https tunnel that scales
-*   [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
-*   [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) - Open source virtual desktops for AI agents
-*   [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-*   [aresrpg/aresrpg-map-colors](https://github.com/aresrpg/aresrpg-map-colors) - Minecraft map item colors utility
-*   [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-*   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
-*   [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
-*   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
-*   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
-*   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
-*   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
-*   [dewil-official/ppap](https://github.com/dewil-official/ppap) - 🐦 Pokemon Pen And Paper - App
 
 ## C
 
