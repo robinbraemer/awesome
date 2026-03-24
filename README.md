@@ -288,7 +288,7 @@
 *   [Konixy/better-svelte-email](https://github.com/Konixy/better-svelte-email) - 📧 Render emails in Svelte effortlessly with first-class tailwind support
 *   [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 *   [maxim-lobanov/setup-xcode](https://github.com/maxim-lobanov/setup-xcode) -  Set up your GitHub Actions workflow with a specific version of Xcode
-*   [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n. Zero code changes. Smallest bundles.
+*   [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n toolkit that requires zero code changes and produces the smallest possible bundles. Supports React, Svelte, SolidJS, Astro, and more
 *   [azat-io/actions-up](https://github.com/azat-io/actions-up) - 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 *   [x0k/svelte-jsonschema-form](https://github.com/x0k/svelte-jsonschema-form) - Svelte 5 library for creating forms based on JSON schema.
 *   [woodendoors7/MinecraftStatusPinger](https://github.com/woodendoors7/MinecraftStatusPinger) - 🟩 A Minecraft Status Pinger
