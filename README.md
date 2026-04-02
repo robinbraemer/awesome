@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [Go](#go)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -33,22 +33,9 @@
 *   [CoffeeScript](#coffeescript)
 *   [Dockerfile](#dockerfile)
 
-## Shell
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-*   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-*   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
-*   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
-*   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
-*   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
-
 ## Go
 
+*   [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 *   [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 *   [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 *   [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -254,7 +241,20 @@
 *   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 *   [calebdoxsey/kubernetes-cloudflare-sync](https://github.com/calebdoxsey/kubernetes-cloudflare-sync) -
 *   [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
-*   [xetys/hetzner-kube](https://github.com/xetys/hetzner-kube) - A CLI tool for provisioning kubernetes clusters on Hetzner Cloud
+
+## Shell
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+*   [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+*   [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
+*   [airshipit/maas](https://github.com/airshipit/maas) - Kubernetes deployment artifacts for Canonical's MaaS.
+*   [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
+*   [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 
 ## JavaScript
 
