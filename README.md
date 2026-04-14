@@ -449,7 +449,7 @@
 *   [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+*   [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 *   [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 *   [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -463,7 +463,7 @@
 *   [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - \[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 *   [predict-idlab/plotly-resampler](https://github.com/predict-idlab/plotly-resampler) - Visualize large time series data with plotly.py
 *   [Godlander/objmc](https://github.com/Godlander/objmc) - A tool to bypass Minecraft Java Edition model limits by baking vertex data into texture.
-*   [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
+*   [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Test thousands of trading ideas in the time others test one.
 *   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 *   [openstack/openstack-ansible](https://github.com/openstack/openstack-ansible) - Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.
 *   [maximilian-janisch/2018-UZH-Great-Santa-Hunt](https://github.com/maximilian-janisch/2018-UZH-Great-Santa-Hunt) - The repository for a small game in which deers search for and distribute presents.
