@@ -34,6 +34,7 @@
 
 ## TypeScript
 
+*   [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 *   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 *   [cloudflare/kubernetes-access-worker-example](https://github.com/cloudflare/kubernetes-access-worker-example) - Example implementation of an Access-protected private Kubernetes API
 *   [nilslice/shadow](https://github.com/nilslice/shadow) - A file-watching coding agent that lets you import things before they exist.
@@ -421,7 +422,6 @@
 *   [lib/pq](https://github.com/lib/pq) - Go PostgreSQL driver for database/sql
 *   [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 *   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-*   [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 
 ## Zig
 
