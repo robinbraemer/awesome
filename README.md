@@ -34,7 +34,7 @@
 
 ## TypeScript
 
-*   [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) -
+*   [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
 *   [dbjpanda/convex-authz](https://github.com/dbjpanda/convex-authz) - A comprehensive RBAC/ABAC/ReBAC authorization component for Convex with O(1) indexed lookups, inspired by Google Zanzibar
 *   [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 *   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
