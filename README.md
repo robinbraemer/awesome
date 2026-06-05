@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
-*   [Zig](#zig)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -31,6 +31,12 @@
 *   [Starlark](#starlark)
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
+
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+*   [nilslice/workers-zig](https://github.com/nilslice/workers-zig) - Write Cloudflare Workers in 100% Zig via WebAssembly
+*   [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## TypeScript
 
@@ -325,7 +331,6 @@
 *   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 *   [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 *   [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-*   [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 
 ## Python
 
@@ -426,11 +431,6 @@
 *   [InventivetalentDev/PluginBlueprint](https://github.com/InventivetalentDev/PluginBlueprint) - Node based visual programming editor for creating Spigot/Bukkit plugins
 *   [temporal-community/snipsync](https://github.com/temporal-community/snipsync) -
 *   [dgraph-io/ratel](https://github.com/dgraph-io/ratel) - Dgraph Data Visualizer and Cluster Manager
-
-## Zig
-
-*   [nilslice/workers-zig](https://github.com/nilslice/workers-zig) - Write Cloudflare Workers in 100% Zig via WebAssembly
-*   [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## Svelte
 
