@@ -290,7 +290,7 @@
 *   [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 *   [chromedp/examples](https://github.com/chromedp/examples) - chromedp code examples.
 *   [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-*   [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+*   [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 *   [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 *   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 *   [go-log/log](https://github.com/go-log/log) - A universal log interface
@@ -601,7 +601,7 @@
 
 ## Starlark
 
-*   [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+*   [cel-expr/cel-spec](https://github.com/cel-expr/cel-spec) - Common Expression Language -- specification and binary representation
 *   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Jinja
