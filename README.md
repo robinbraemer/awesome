@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Zig](#zig)
 *   [Go](#go)
 *   [Python](#python)
-*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
@@ -31,6 +31,14 @@
 *   [Starlark](#starlark)
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
+
+## Swift
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
+*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+*   [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 
 ## Rust
 
@@ -106,7 +114,7 @@
 *   [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 *   [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-*   [opral/inlang](https://github.com/opral/inlang) - The open format TMS (translation management system)
+*   [opral/inlang](https://github.com/opral/inlang) - Open format TMS (translation management system)
 *   [needle-di/needle-di](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects
 *   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 *   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
@@ -362,7 +370,6 @@
 *   [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server
 *   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 *   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-*   [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 
 ## Python
 
@@ -404,13 +411,6 @@
 *   [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 *   [openstack/openstack-ansible](https://github.com/openstack/openstack-ansible) - Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.
 *   [maximilian-janisch/2018-UZH-Great-Santa-Hunt](https://github.com/maximilian-janisch/2018-UZH-Great-Santa-Hunt) - The repository for a small game in which deers search for and distribute presents.
-
-## Swift
-
-*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-*   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
-*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-*   [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 
 ## JavaScript
 
