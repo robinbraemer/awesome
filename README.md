@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Swift](#swift)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
@@ -21,7 +22,6 @@
 *   [Ruby](#ruby)
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
-*   [Java](#java)
 *   [Batchfile](#batchfile)
 *   [PHP](#php)
 *   [V](#v)
@@ -32,9 +32,39 @@
 *   [Jinja](#jinja)
 *   [CoffeeScript](#coffeescript)
 
+## Java
+
+*   [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) - Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
+*   [Pugmatt/BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
+*   [minerllabs/minerl](https://github.com/minerllabs/minerl) - MineRL Competition for Sample Efficient Reinforcement Learning - Python Package
+*   [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
+*   [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
+*   [hollow-cube/minestom-ce](https://github.com/hollow-cube/minestom-ce) - 1.20.4 Lightweight Minecraft server
+*   [GoldenStack/window](https://github.com/GoldenStack/window) - Barebones inventory wrapper API for Minestom inventories
+*   [cerus/maps](https://github.com/cerus/maps) - maps is a simple Spigot plugin and api for creating clientside maps and map screens.
+*   [Incendo/cloud](https://github.com/Incendo/cloud) - Command framework & dispatcher for the JVM
+*   [boy0001/FastAsyncWorldedit](https://github.com/boy0001/FastAsyncWorldedit) - Blazingly fast world manipulation for artists, large networks and developers: https://www.spigotmc.org/resources/13932/
+*   [SkriptLang/skript-reflect](https://github.com/SkriptLang/skript-reflect) - Powerful reflection utilities for Skript.
+*   [astei/varint-writing-showdown](https://github.com/astei/varint-writing-showdown) - How fast can you write a Google Protocol Buffer (signed) VarInt?
+*   [oldstuffs/BukkitItemBuilder](https://github.com/oldstuffs/BukkitItemBuilder) - Moved to https://github.com/Infumia/InfumiaLib
+*   [oldstuffs/scoreboard](https://github.com/oldstuffs/scoreboard) - Moved to https://github.com/Infumia/InfumiaLib
+*   [oldstuffs/SmartInventory](https://github.com/oldstuffs/SmartInventory) - Moved to https://github.com/Infumia/InfumiaLib
+*   [robinbraemer/CloudflareAPI](https://github.com/robinbraemer/CloudflareAPI) - The most complete and extensible Cloudflare API v4 client library for Java.
+*   [ProtocolSupport/ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support 1.18, 1.17, 1.16, 1.15, 1.14, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4.7 clients on Spigot/Paper 1.18.1
+*   [TheLimeGlass/Skellett](https://github.com/TheLimeGlass/Skellett) - The most popular Skript addon
+*   [DragonetMC/DragonProxy](https://github.com/DragonetMC/DragonProxy) - 🐲 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
+*   [PaperMC/adventure-platform](https://github.com/PaperMC/adventure-platform) - Adventure platform implementations
+*   [esoco/coroutines](https://github.com/esoco/coroutines) - A pure Java implementation of cooperative concurrency, aka coroutines
+*   [MinusKube/SmartInvs](https://github.com/MinusKube/SmartInvs) - Advanced Inventory API for your Minecraft Bukkit plugins.
+*   [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
+*   [PaperMC/adventure](https://github.com/PaperMC/adventure) - A user-interface library for Minecraft: Java Edition
+*   [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
+*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
+*   [halirutan/IntelliJ-Key-Promoter-X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) - Modern IntelliJ plugin to learn shortcuts for buttons
+
 ## Swift
 
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 *   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 *   [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 *   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -369,7 +399,6 @@
 *   [campoy/justforfunc](https://github.com/campoy/justforfunc) - The repository for the YouTube series JustForFunc
 *   [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server
 *   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 
 ## Python
 
@@ -540,35 +569,6 @@
 *   [SparkUniverse/Essential-Mod](https://github.com/SparkUniverse/Essential-Mod) - Essential is a quality of life mod that boosts Minecraft Java Edition to the next level!
 *   [emortalmc/Immortal](https://github.com/emortalmc/Immortal) - \[legacy] Game manager for EmortalMC
 *   [emortalmc/MarathonOld](https://github.com/emortalmc/MarathonOld) - An endless parkour gamemode
-
-## Java
-
-*   [Pugmatt/BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
-*   [minerllabs/minerl](https://github.com/minerllabs/minerl) - MineRL Competition for Sample Efficient Reinforcement Learning - Python Package
-*   [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
-*   [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
-*   [hollow-cube/minestom-ce](https://github.com/hollow-cube/minestom-ce) - 1.20.4 Lightweight Minecraft server
-*   [GoldenStack/window](https://github.com/GoldenStack/window) - Barebones inventory wrapper API for Minestom inventories
-*   [cerus/maps](https://github.com/cerus/maps) - maps is a simple Spigot plugin and api for creating clientside maps and map screens.
-*   [Incendo/cloud](https://github.com/Incendo/cloud) - Command framework & dispatcher for the JVM
-*   [boy0001/FastAsyncWorldedit](https://github.com/boy0001/FastAsyncWorldedit) - Blazingly fast world manipulation for artists, large networks and developers: https://www.spigotmc.org/resources/13932/
-*   [SkriptLang/skript-reflect](https://github.com/SkriptLang/skript-reflect) - Powerful reflection utilities for Skript.
-*   [astei/varint-writing-showdown](https://github.com/astei/varint-writing-showdown) - How fast can you write a Google Protocol Buffer (signed) VarInt?
-*   [oldstuffs/BukkitItemBuilder](https://github.com/oldstuffs/BukkitItemBuilder) - Moved to https://github.com/Infumia/InfumiaLib
-*   [oldstuffs/scoreboard](https://github.com/oldstuffs/scoreboard) - Moved to https://github.com/Infumia/InfumiaLib
-*   [oldstuffs/SmartInventory](https://github.com/oldstuffs/SmartInventory) - Moved to https://github.com/Infumia/InfumiaLib
-*   [robinbraemer/CloudflareAPI](https://github.com/robinbraemer/CloudflareAPI) - The most complete and extensible Cloudflare API v4 client library for Java.
-*   [ProtocolSupport/ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) - Support 1.18, 1.17, 1.16, 1.15, 1.14, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4.7 clients on Spigot/Paper 1.18.1
-*   [TheLimeGlass/Skellett](https://github.com/TheLimeGlass/Skellett) - The most popular Skript addon
-*   [DragonetMC/DragonProxy](https://github.com/DragonetMC/DragonProxy) - 🐲 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
-*   [PaperMC/adventure-platform](https://github.com/PaperMC/adventure-platform) - Adventure platform implementations
-*   [esoco/coroutines](https://github.com/esoco/coroutines) - A pure Java implementation of cooperative concurrency, aka coroutines
-*   [MinusKube/SmartInvs](https://github.com/MinusKube/SmartInvs) - Advanced Inventory API for your Minecraft Bukkit plugins.
-*   [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
-*   [PaperMC/adventure](https://github.com/PaperMC/adventure) - A user-interface library for Minecraft: Java Edition
-*   [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
-*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
-*   [halirutan/IntelliJ-Key-Promoter-X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) - Modern IntelliJ plugin to learn shortcuts for buttons
 
 ## Batchfile
 
