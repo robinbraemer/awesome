@@ -569,6 +569,7 @@
 
 ## TypeScript 
 
+- [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
