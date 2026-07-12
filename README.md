@@ -573,6 +573,7 @@
 
 ## TypeScript 
 
+- [hyperpuncher/pi-ui](https://github.com/hyperpuncher/pi-ui) - desktop gui for pi
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi) - Allow your agents to see your LLM subscription quota windows.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
