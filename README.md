@@ -540,12 +540,12 @@
 
 ## Svelte 
 
-- [olegpolin/neobrutalism-svelte](https://github.com/olegpolin/neobrutalism-svelte) - 
+- [olegpolin/neobrutalism-svelte](https://github.com/olegpolin/neobrutalism-svelte) - Neobrutalism UI components for Svelte, built on shadcn-svelte
 - [ddtamn/svelte-audio-ui](https://github.com/ddtamn/svelte-audio-ui) - A set of accessible and composable Audio UI components.
 - [SikandarJODD/form-builder](https://github.com/SikandarJODD/form-builder) - Svelte Form Builder include various Input fields validated using ZOD + Superforms
 - [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a unofficial port of Vercel AI Elements, built on top of shadcn-svelte.
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
-- [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
+- [motion-core/motion-core](https://github.com/motion-core/motion-core) - Curated Motion Core Svelte components
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [YusufCeng1z/svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
 - [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
