@@ -522,7 +522,7 @@
 
 ## Shell 
 
-- [akua-dev/agent-os](https://github.com/akua-dev/agent-os) - Talk to one agent. Ship with a crew.
+- [akua-dev/firstmate](https://github.com/akua-dev/firstmate) - Talk to one agent. Ship with a crew.
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
