@@ -488,7 +488,7 @@
 
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [Finesssee/linear-cli](https://github.com/Finesssee/linear-cli) - A powerful CLI for Linear.app built with Rust
+- [nesszer/linear-cli](https://github.com/nesszer/linear-cli) - A powerful CLI for Linear.app built with Rust
 - [Cmochance/codex-app-transfer](https://github.com/Cmochance/codex-app-transfer) - Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -577,6 +577,7 @@
 
 ## TypeScript 
 
+- [akua-dev/agentos](https://github.com/akua-dev/agentos) - Build invincible autonomous companies. The harness to scale context-switching coordinated work on many machines.
 - [chandra447/pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) - Hermes-style persistent memory and learning loop for Pi coding agent
 - [hyperpuncher/pi-ui](https://github.com/hyperpuncher/pi-ui) - minimal gui for pi
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
