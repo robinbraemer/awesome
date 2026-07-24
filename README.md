@@ -490,7 +490,7 @@
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [nesszer/linear-cli](https://github.com/nesszer/linear-cli) - A powerful CLI for Linear.app built with Rust
 - [Cmochance/codex-app-transfer](https://github.com/Cmochance/codex-app-transfer) - Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
