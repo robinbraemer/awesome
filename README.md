@@ -595,7 +595,7 @@
 - [cloudflare/kubernetes-access-worker-example](https://github.com/cloudflare/kubernetes-access-worker-example) - Example implementation of an Access-protected private Kubernetes API
 - [nilslice/shadow](https://github.com/nilslice/shadow) - A file-watching coding agent that lets you import things before they exist.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [Konixy/better-svelte-email](https://github.com/Konixy/better-svelte-email) - 📧 Render emails in Svelte effortlessly with first-class tailwind support
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [maxim-lobanov/setup-xcode](https://github.com/maxim-lobanov/setup-xcode) - Set up your GitHub Actions workflow with a specific version of Xcode
