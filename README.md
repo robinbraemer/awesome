@@ -486,6 +486,7 @@
 
 ## Rust 
 
+- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [nesszer/linear-cli](https://github.com/nesszer/linear-cli) - A powerful CLI for Linear.app built with Rust
