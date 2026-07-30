@@ -416,7 +416,6 @@
 - [qvisten12/jetbrains-new-ui-dark-theme](https://github.com/qvisten12/jetbrains-new-ui-dark-theme) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [ogx-ai/llama-stack-apps](https://github.com/ogx-ai/llama-stack-apps) - Agentic components of the Llama Stack APIs
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
 - [Articdive/ArticData](https://github.com/Articdive/ArticData) - Collection of data extracted from Minecraft.
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -488,7 +487,7 @@
 
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
 - [nesszer/linear-cli](https://github.com/nesszer/linear-cli) - A powerful CLI for Linear.app built with Rust
 - [Cmochance/codex-app-transfer](https://github.com/Cmochance/codex-app-transfer) - Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
@@ -578,6 +577,9 @@
 
 ## TypeScript 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Claude Code like Sub-agents for Pi — parallel execution, live widget, custom agent types, mid-run steering and more ...
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [akua-dev/agentos](https://github.com/akua-dev/agentos) - Build invincible autonomous companies. The harness to scale context-switching, coordinated work on many machines.
 - [chandra447/pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) - Hermes-style persistent memory and learning loop for Pi coding agent
 - [hyperpuncher/pi-ui](https://github.com/hyperpuncher/pi-ui) - minimal gui for pi
@@ -647,6 +649,7 @@
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [DeluxeOwl/kala-go](https://github.com/DeluxeOwl/kala-go) - An authorization framework written in Go based on Google's Zanzibar.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
