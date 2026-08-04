@@ -105,7 +105,7 @@
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD
@@ -184,6 +184,7 @@
 - [dpb587/go-importshttp](https://github.com/dpb587/go-importshttp) - Utilities for hosting Go packages on custom/vanity domains.
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+- [minekube/connect](https://github.com/minekube/connect) - Minekube Connect allows you to connect any Minecraft server, whether online mode, public, behind your protected home network or anywhere else in the world, with our managed, highly available, performa
 - [haveachin/infrared](https://github.com/haveachin/infrared) - An ultra lightweight minecraft reverse proxy and idle placeholder
 - [rancher/rke2](https://github.com/rancher/rke2) - 
 - [robinbraemer/parallel](https://github.com/robinbraemer/parallel) - Tiny utility for gracefully running functions in parallel with multi-error returning.
@@ -631,7 +632,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [opral/inlang](https://github.com/opral/inlang) - Open format TMS (translation management system)
 - [needle-di/needle-di](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
@@ -700,7 +701,6 @@
 
 ## Vue 
 
-- [minekube/connect](https://github.com/minekube/connect) - Minekube Connect allows you to connect any Minecraft server, whether online mode, public, behind your protected home network or anywhere else in the world, with our managed, highly available, performa
 - [dannyconnell/qwitter](https://github.com/dannyconnell/qwitter) - 
 
 ## Zig 
