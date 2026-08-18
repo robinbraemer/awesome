@@ -360,6 +360,7 @@
 
 ## JavaScript 
 
+- [Yousuf-developer/Viscose-carousel](https://github.com/Yousuf-developer/Viscose-carousel) - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [thedead2/thieme_eref_downloader](https://github.com/thedead2/thieme_eref_downloader) - Download all pdfs of an e-book from Thieme eRef and merge them into a single file.
