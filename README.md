@@ -582,6 +582,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [adewale/agentic-mermaid](https://github.com/adewale/agentic-mermaid) - Beautiful diagrams, made with your agent.
 - [vanilla-wave/rifty](https://github.com/vanilla-wave/rifty) - Browser-based Node-compatible runtime + WASI runner
 - [yachty66/Privepal](https://github.com/yachty66/Privepal) - Fast, private AI chat. Like Threema, but for LLMs.
