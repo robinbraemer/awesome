@@ -593,7 +593,7 @@
 - [vanilla-wave/rifty](https://github.com/vanilla-wave/rifty) - Browser-based Node-compatible runtime + WASI runner
 - [yachty66/Privepal](https://github.com/yachty66/Privepal) - Fast, private AI chat. Like Threema, but for LLMs.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
-- [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Claude Code like Sub-agents for Pi — parallel execution, live widget, custom agent types, mid-run steering and more ...
+- [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [akua-dev/agentos](https://github.com/akua-dev/agentos) - Build invincible autonomous companies. The harness to scale context-switching, coordinated work on many machines.
 - [chandra447/pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) - Hermes-style persistent memory and learning loop for Pi coding agent
