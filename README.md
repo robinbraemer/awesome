@@ -507,7 +507,7 @@
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [scrayosnet/dcexport](https://github.com/scrayosnet/dcexport) - Discord Server Prometheus Exporter
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
@@ -592,7 +592,7 @@
 - [adewale/agentic-mermaid](https://github.com/adewale/agentic-mermaid) - Beautiful diagrams, made with your agent.
 - [vanilla-wave/rifty](https://github.com/vanilla-wave/rifty) - Browser-based Node-compatible runtime + WASI runner
 - [yachty66/Privepal](https://github.com/yachty66/Privepal) - Fast, private AI chat. Like Threema, but for LLMs.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [akua-dev/agentos](https://github.com/akua-dev/agentos) - Build invincible autonomous companies. The harness to scale context-switching, coordinated work on many machines.
