@@ -585,6 +585,7 @@
 
 ## TypeScript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
