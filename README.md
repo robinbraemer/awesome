@@ -587,6 +587,7 @@
 
 ## TypeScript 
 
+- [akua-dev/cli](https://github.com/akua-dev/cli) - Do more with less. One CLI — agents, software, machines. Built for terminal agents.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
