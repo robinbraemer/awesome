@@ -134,7 +134,7 @@
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [minekube/gate-plugin-template](https://github.com/minekube/gate-plugin-template) - A Golang starter template for creating your awesome Minecraft proxy and extensions powered by Minekube Gate 🚀 Fork it!
 - [redis-go/redis](https://github.com/redis-go/redis) - Redis server written in Go / Golang (prototype)
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
@@ -490,6 +490,7 @@
 
 ## Rust 
 
+- [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [josh-project/josh](https://github.com/josh-project/josh) - Git at scale platform
@@ -564,7 +565,7 @@
 - [kaltwrk/motion-core](https://github.com/kaltwrk/motion-core) - Curated Motion Core Svelte components
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [YusufCeng1z/svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
-- [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
+- [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 200+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
 - [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
 - [oMaN-Rod/svelte-openlayers](https://github.com/oMaN-Rod/svelte-openlayers) - A composable, component-based OpenLayers integration for Svelte 5.
 - [steveninety/svelte-email-tailwind](https://github.com/steveninety/svelte-email-tailwind) - Code, preview and test-send email templates with Svelte and Tailwind classes and render them to HTML or plain text.
