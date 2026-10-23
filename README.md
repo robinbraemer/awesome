@@ -409,7 +409,7 @@
 ## MDX 
 
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
-- [HytaleModding/site](https://github.com/HytaleModding/site) - Hytale Modding Website - your one stop shop for all guides & docs related to Hytale.
+- [HytaleModding/site](https://github.com/HytaleModding/site) - HytaleModding Website - your one stop shop for all guides & docs related to Hytale.
 
 ## Makefile 
 
@@ -491,6 +491,7 @@
 
 ## Rust 
 
+- [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
