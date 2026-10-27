@@ -595,6 +595,7 @@
 
 ## TypeScript 
 
+- [khromov/gpuix-svelte](https://github.com/khromov/gpuix-svelte) - Build native desktop apps for Mac, Windows and Linux with Svelte and GPUI
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
