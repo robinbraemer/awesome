@@ -244,7 +244,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
-- [cockroachdb/cockroach-operator](https://github.com/cockroachdb/cockroach-operator) - k8s operator for CRDB
+- [cockroachdb/cockroach-operator-legacy](https://github.com/cockroachdb/cockroach-operator-legacy) - k8s operator for CRDB
 - [cert-manager/csi-driver](https://github.com/cert-manager/csi-driver) - A Kubernetes CSI plugin to automatically mount signed certificates to Pods using ephemeral volumes
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
@@ -595,6 +595,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [khromov/gpuix-svelte](https://github.com/khromov/gpuix-svelte) - Build native desktop apps for Mac, Windows and Linux with Svelte and GPUI
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
