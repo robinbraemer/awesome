@@ -112,7 +112,6 @@
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [minekube/votifier](https://github.com/minekube/votifier) - Zero dependency Go implementation of Votifier v1 and v2 (used in production at Minekube)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -668,6 +667,7 @@
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
