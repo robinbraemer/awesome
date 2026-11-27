@@ -112,6 +112,7 @@
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [minekube/votifier](https://github.com/minekube/votifier) - Zero dependency Go implementation of Votifier v1 and v2 (used in production at Minekube)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -148,7 +149,6 @@
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
@@ -206,8 +206,8 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [suggest-go/suggest](https://github.com/suggest-go/suggest) - Top-k Approximate String Matching.
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
-- [chromedp/examples](https://github.com/chromedp/examples) - chromedp code examples.
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [chromedp/examples](https://github.com/chromedp/examples) - Go example programs for chromedp: web scraping, screenshots, PDFs, network interception, forms and iframes.
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - Drive Chrome from Go over the Chrome DevTools Protocol: browser automation, web scraping, testing, screenshots and PDFs. No Node, Selenium or WebDriver.
 - [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -550,6 +550,7 @@
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
@@ -667,7 +668,6 @@
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
