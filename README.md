@@ -149,6 +149,7 @@
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
@@ -490,6 +491,7 @@
 
 ## Rust 
 
+- [anomalyco/psychoscript](https://github.com/anomalyco/psychoscript) - A confined JavaScript runtime for programs that call schema-described tools
 - [reylosql/reylo](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
@@ -550,7 +552,6 @@
 - [nolar/setup-k3d-k3s](https://github.com/nolar/setup-k3d-k3s) - Setup K3d/K3s for GitHub Actions
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [vmware-archive/tgik](https://github.com/vmware-archive/tgik) - Official repository for TGI Kubernetes (TGIK)!
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
@@ -594,6 +595,8 @@
 
 ## TypeScript 
 
+- [kitlangton/effect-institute](https://github.com/kitlangton/effect-institute) - Strange, semi-interactive, voice-narrated lessons for learning Effect. Built with Effect v4.
+- [Effect-TS/ui](https://github.com/Effect-TS/ui) - 
 - [anomalyco/browse](https://github.com/anomalyco/browse) - Let your AI agents use your real browser: an MCP server and a Chromium extension
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [rjdellecese/confect](https://github.com/rjdellecese/confect) - Use Effect with Convex!
